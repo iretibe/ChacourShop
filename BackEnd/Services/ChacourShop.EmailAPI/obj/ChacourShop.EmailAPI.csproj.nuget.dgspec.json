@@ -1,0 +1,238 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.EmailAPI\\ChacourShop.EmailAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.EmailAPI\\ChacourShop.EmailAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.EmailAPI\\ChacourShop.EmailAPI.csproj",
+        "projectName": "ChacourShop.EmailAPI",
+        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.EmailAPI\\ChacourShop.EmailAPI.csproj",
+        "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.EmailAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Somad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
+                "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj"
+              },
+              "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj": {
+                "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
+        "projectName": "ChacourShop.MessageBus",
+        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
+        "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Somad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
+        "projectName": "ChacourShop.PaymentProcessor",
+        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
+        "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Somad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

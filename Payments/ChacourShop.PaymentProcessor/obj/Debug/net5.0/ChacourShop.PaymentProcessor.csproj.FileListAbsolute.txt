@@ -1,0 +1,11 @@
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\bin\Debug\net5.0\ChacourShop.PaymentProcessor.deps.json
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\bin\Debug\net5.0\ChacourShop.PaymentProcessor.dll
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\bin\Debug\net5.0\ref\ChacourShop.PaymentProcessor.dll
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\bin\Debug\net5.0\ChacourShop.PaymentProcessor.pdb
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\obj\Debug\net5.0\ChacourShop.PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\obj\Debug\net5.0\ChacourShop.PaymentProcessor.AssemblyInfoInputs.cache
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\obj\Debug\net5.0\ChacourShop.PaymentProcessor.AssemblyInfo.cs
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\obj\Debug\net5.0\ChacourShop.PaymentProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\obj\Debug\net5.0\ChacourShop.PaymentProcessor.dll
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\obj\Debug\net5.0\ref\ChacourShop.PaymentProcessor.dll
+C:\Users\Somad\source\repos\ChacourShop\Payments\ChacourShop.PaymentProcessor\obj\Debug\net5.0\ChacourShop.PaymentProcessor.pdb

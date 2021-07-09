@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmdhrNTXb6LwaPKkwRDcgZxi3xRZk8t4QxYIljW4Ww4rbZfigkYXM3yQna7N+7+tuKbbeiwGVJLpXUku5UWK2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\FrontEnd\\ChacourShop.UI\\ChacourShop.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.7\\microsoft.aspnetcore.authentication.openidconnect.5.0.7.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
