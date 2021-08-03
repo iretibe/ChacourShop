@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qx9yd5b2Ps/ZeI02t5pCBL+0kT/ri69df7YzqmNIpak0+A00PkBmZJq/K9nhTF5GKuyXh8EJjZIaR66iSvb5Eg==",
+  "dgSpecHash": "gl2AMyBOO9F/h1/b07fwj+eMCLxiOSsR4uvEAKkwu0/EyJE+FCNwhCxU/s6Hksg7EXu5kcoVnIzocY+OXrC9pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
+  "projectFilePath": "C:\\Users\\Somad\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

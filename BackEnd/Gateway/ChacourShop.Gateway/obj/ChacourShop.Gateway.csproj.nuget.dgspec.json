@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {}
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
         "projectName": "ChacourShop.Gateway",
-        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
+        "projectPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\obj\\",
+        "outputPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

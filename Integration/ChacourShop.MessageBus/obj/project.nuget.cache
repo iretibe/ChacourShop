@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqMrCIdkF+BB+xU4a5kDs0UmwC76ldE2lhWMkC1nwTbjTvJgx1VjpFnE2LEvQG7Ky4Paqk1WHaeoOEMUUdEFbg==",
+  "dgSpecHash": "5m16+aUGBoNL5GaigMw6SvD/o44ctEiCGYdGBRFEBp0UsJCdWXDL+KCrum836gavJpI/NK/Tmy6oXg065s6g+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
+  "projectFilePath": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Somad\\.nuget\\packages\\azure.core\\1.16.0\\azure.core.1.16.0.nupkg.sha512",
     "C:\\Users\\Somad\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",

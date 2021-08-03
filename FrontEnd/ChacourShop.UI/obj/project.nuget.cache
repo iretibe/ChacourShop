@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NmdhrNTXb6LwaPKkwRDcgZxi3xRZk8t4QxYIljW4Ww4rbZfigkYXM3yQna7N+7+tuKbbeiwGVJLpXUku5UWK2Q==",
+  "dgSpecHash": "gdiEpU1gSD5t2uLdNRumUT8fHj2aucVu2Sho+6aPpUxA/T7KzdZJynk5kh7WI19YGvuu9+10XdWAe8ZLrK0uCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\FrontEnd\\ChacourShop.UI\\ChacourShop.UI.csproj",
+  "projectFilePath": "C:\\Users\\Somad\\ChacourShop\\FrontEnd\\ChacourShop.UI\\ChacourShop.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Somad\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.7\\microsoft.aspnetcore.authentication.openidconnect.5.0.7.nupkg.sha512",
     "C:\\Users\\Somad\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

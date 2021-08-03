@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLNhv4owbpQ0oLlrfgDEeZDQnFyfrHrJ+R1+sIZtc/IbtDdBFpo8IbP0PF7g0C5InFWzw2fM9oFqVfQbWVSNcg==",
+  "dgSpecHash": "AHv14OcttUxXKFPguKXbEjLiH3BKWS008jhHU/Ji4T9AnYA2nGy5myhvto6KTlzLBco21yiuHAc8Hj/wGkxMUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj",
+  "projectFilePath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Somad\\.nuget\\packages\\duende.identityserver\\5.2.1\\duende.identityserver.5.2.1.nupkg.sha512",
     "C:\\Users\\Somad\\.nuget\\packages\\duende.identityserver.aspnetidentity\\5.2.1\\duende.identityserver.aspnetidentity.5.2.1.nupkg.sha512",

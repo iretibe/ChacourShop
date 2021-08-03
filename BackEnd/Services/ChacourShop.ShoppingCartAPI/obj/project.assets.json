@@ -6975,11 +6975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.ShoppingCartAPI\\ChacourShop.ShoppingCartAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.ShoppingCartAPI\\ChacourShop.ShoppingCartAPI.csproj",
       "projectName": "ChacourShop.ShoppingCartAPI",
-      "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.ShoppingCartAPI\\ChacourShop.ShoppingCartAPI.csproj",
+      "projectPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.ShoppingCartAPI\\ChacourShop.ShoppingCartAPI.csproj",
       "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.ShoppingCartAPI\\obj\\",
+      "outputPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.ShoppingCartAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7000,8 +7000,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
-              "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj"
+            "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
+              "projectPath": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jy9f3CoZaMw5PWltCxN72+ebl/m3L4m23ZPD/P0UHtxLDpjxNMtGBitfri3kSWZiLHLgWX0Op23MWwQFdhIb9w==",
+  "dgSpecHash": "QwBKCVTUal+0tFl1cPJP9b/fJqfcT2K7lPle3CV81Fdw9jNO0VZv4uC3s0HEkmS1Vyd77luRMv9AtwODn+b8XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.EmailAPI\\ChacourShop.EmailAPI.csproj",
+  "projectFilePath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.EmailAPI\\ChacourShop.EmailAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Somad\\.nuget\\packages\\azure.core\\1.16.0\\azure.core.1.16.0.nupkg.sha512",
     "C:\\Users\\Somad\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",

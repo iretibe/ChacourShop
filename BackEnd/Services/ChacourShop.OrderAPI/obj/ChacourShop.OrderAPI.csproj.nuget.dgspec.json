@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj": {}
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj": {
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj",
         "projectName": "ChacourShop.OrderAPI",
-        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj",
+        "projectPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\obj\\",
+        "outputPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
-                "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj"
+              "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
+                "projectPath": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj"
               }
             }
           }
@@ -117,14 +117,14 @@
         }
       }
     },
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
+    "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
+        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
         "projectName": "ChacourShop.MessageBus",
-        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
+        "projectPath": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Integration\\ChacourShop.MessageBus\\obj\\",
+        "outputPath": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

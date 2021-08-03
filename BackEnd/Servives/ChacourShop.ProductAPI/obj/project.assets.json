@@ -5698,11 +5698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Servives\\ChacourShop.ProductAPI\\ChacourShop.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Servives\\ChacourShop.ProductAPI\\ChacourShop.ProductAPI.csproj",
       "projectName": "ChacourShop.ProductAPI",
-      "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Servives\\ChacourShop.ProductAPI\\ChacourShop.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Servives\\ChacourShop.ProductAPI\\ChacourShop.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Servives\\ChacourShop.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Servives\\ChacourShop.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

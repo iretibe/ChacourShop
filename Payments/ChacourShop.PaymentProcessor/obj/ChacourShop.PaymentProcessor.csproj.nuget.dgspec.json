@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj": {}
+    "C:\\Users\\Somad\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj": {
+    "C:\\Users\\Somad\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
+        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
         "projectName": "ChacourShop.PaymentProcessor",
-        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
+        "projectPath": "C:\\Users\\Somad\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\ChacourShop.PaymentProcessor.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\obj\\",
+        "outputPath": "C:\\Users\\Somad\\ChacourShop\\Payments\\ChacourShop.PaymentProcessor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

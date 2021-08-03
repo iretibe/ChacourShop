@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjbHojkit4OmtSyrbrESmTH4rPFNBni54AK9iqJD3TIvnMqsUdvfC9K3rzedu2LGGOma6rUop7q7gR7DvYQf/w==",
+  "dgSpecHash": "egJ/kDIqF3WGXKomEyLA/vBysLXDlRELF0nvjgo6Mo8zbMMYrDnI5qKiRiGSUe0FBPXDLk0ttSn0BIIKFwLk8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Somad\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Somad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

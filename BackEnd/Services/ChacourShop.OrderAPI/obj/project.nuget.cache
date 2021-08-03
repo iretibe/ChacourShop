@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+/zlDMCylKhQ5xQq+nDWgkyUXHSPajzt4ybmO6JmdRufmm27b4W3H2ntboPZfUhBtgKfrTo/m3zEzv30JbGj6w==",
+  "dgSpecHash": "CpeR8R+e+huTEQ/Xtak8RcwI3y3RRlmOVQHFffUQID2fsdr/Wfs9y0QLtMJak42GPWp60fsEO0RQckVxa/datw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj",
+  "projectFilePath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\ChacourShop.OrderAPI\\ChacourShop.OrderAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Somad\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Somad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

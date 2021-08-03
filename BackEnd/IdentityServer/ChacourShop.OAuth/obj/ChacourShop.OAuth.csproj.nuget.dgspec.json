@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj": {}
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj": {
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj",
+        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj",
         "projectName": "ChacourShop.OAuth",
-        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj",
+        "projectPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\ChacourShop.OAuth.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\obj\\",
+        "outputPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\IdentityServer\\ChacourShop.OAuth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

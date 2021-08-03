@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj": {}
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj": {
+    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj",
         "projectName": "ChacourShop.CouponAPI",
-        "projectPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj",
+        "projectPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\CouponAPI\\ChacourShop.CouponAPI.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\source\\repos\\ChacourShop\\BackEnd\\Services\\CouponAPI\\obj\\",
+        "outputPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Services\\CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
