@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {}
+    "C:\\PROJECTS\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {
+    "C:\\PROJECTS\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
+        "projectUniqueName": "C:\\PROJECTS\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
         "projectName": "ChacourShop.Gateway",
-        "projectPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
+        "projectPath": "C:\\PROJECTS\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\ChacourShop.Gateway.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\obj\\",
+        "outputPath": "C:\\PROJECTS\\ChacourShop\\BackEnd\\Gateway\\ChacourShop.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Somad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,11 +47,11 @@
           "dependencies": {
             "IdentityModel": {
               "target": "Package",
-              "version": "[5.1.0, )"
+              "version": "[5.2.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.7, )"
+              "version": "[5.0.17, )"
             },
             "Ocelot": {
               "target": "Package",
@@ -63,7 +64,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

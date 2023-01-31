@@ -10,3 +10,15 @@ C:\Users\Somad\source\repos\ChacourShop\Integration\ChacourShop.MessageBus\obj\D
 C:\Users\Somad\source\repos\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.dll
 C:\Users\Somad\source\repos\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ref\ChacourShop.MessageBus.dll
 C:\Users\Somad\source\repos\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.pdb
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\bin\Debug\net5.0\ChacourShop.MessageBus.deps.json
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\bin\Debug\net5.0\ChacourShop.MessageBus.dll
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\bin\Debug\net5.0\ChacourShop.MessageBus.pdb
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.csproj.AssemblyReference.cache
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.AssemblyInfoInputs.cache
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.AssemblyInfo.cs
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.csproj.CoreCompileInputs.cache
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.dll
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\refint\ChacourShop.MessageBus.dll
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ChacourShop.MessageBus.pdb
+C:\PROJECTS\ChacourShop\Integration\ChacourShop.MessageBus\obj\Debug\net5.0\ref\ChacourShop.MessageBus.dll

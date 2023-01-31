@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {}
+    "C:\\PROJECTS\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
+    "C:\\PROJECTS\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
+        "projectUniqueName": "C:\\PROJECTS\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
         "projectName": "ChacourShop.MessageBus",
-        "projectPath": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
+        "projectPath": "C:\\PROJECTS\\ChacourShop\\Integration\\ChacourShop.MessageBus\\ChacourShop.MessageBus.csproj",
         "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Somad\\ChacourShop\\Integration\\ChacourShop.MessageBus\\obj\\",
+        "outputPath": "C:\\PROJECTS\\ChacourShop\\Integration\\ChacourShop.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Somad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,11 +47,11 @@
           "dependencies": {
             "Azure.Messaging.ServiceBus": {
               "target": "Package",
-              "version": "[7.2.1, )"
+              "version": "[7.12.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[13.0.2, )"
             }
           },
           "imports": [
@@ -59,7 +60,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
